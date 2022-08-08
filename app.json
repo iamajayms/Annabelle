@@ -1,5 +1,5 @@
 {
-    "name": "Annabelle UserBot",
+    "name": "Doman UserBot",
     "description": "A powerful userbot fully running in pyrogram .",
     "keywords": [
         "Telegram",
@@ -7,9 +7,9 @@
         "Heroku",
         "PyrogramUserBot"
     ],
-    "repository": "https://github.com/AnnabelleTG/Annabelle",
-    "website": "https://t.me/AnnabelleUB",
-    "success_url": "https://github.com/AnnabelleTG/Annabelle",
+    "repository": "https://github.com/iamajayms/Annabelle.git",
+    "website": "https://github.com/iamajayms/Annabelle.git",
+    "success_url": "https://github.com/iamajayms/Annabelle.git",
     "env": {
         "API_ID": {
             "description": "API_ID from website or bot",
