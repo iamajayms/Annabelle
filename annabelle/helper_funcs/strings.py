@@ -50,6 +50,6 @@ ALIVE_TXT = '''
 **{0}Server: [Heroku](www.heroku.com)**
 **{0}Framework: Pyrogram asyncio**
 **{0}Database: [Mongodb](www.mongodb.com)
-**{0}Developers: [Team XD Botz](t.me/XD_Botz)**
-**{0}Repo: [Click Here](github.com/vaishnavofficial/annabelle)**
+**{0}Developers: [Sovel Jaison](t.me/sovel_jaison)**
+**{0}Latest Movies: [Click Here](https://t.me/amsmoviehub)**
 '''
