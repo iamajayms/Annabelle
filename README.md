@@ -49,3 +49,14 @@ Written in python based on pyrogram</i>
   Thanks to  the whole <a href="https://t.me/dorasupportteam">Dora support team</a><br>
   Thanks to our buddy <a href="https://t.me/joel_boban">Joel boban</a> and <a href="https://t.me/blesson_3">Blesson</a><br>
   Thanks to <a href="https://github.com/usergeteam/userge">Userge</a> for being our inspiration</b>
+## Deploy
+You can deploy this bot anywhere.
+
+
+<summary>Deploy To Heroku</summary>
+<br>
+<p>
+<a href="https://heroku.com/deploy?template=https://github.com/iamajayms/Annabelle.git">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
